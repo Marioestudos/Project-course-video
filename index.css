@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    background-color: #ccc;
+}
+body{
+text-align: center;
+
+}
+.ifr{
+    margin-top: 50px;
+    width: 350px;
+    height: 450px;
+}
